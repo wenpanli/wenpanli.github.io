@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Welcome to Wenpan LI's personal homepage. 
 
 Short introduction
 =
