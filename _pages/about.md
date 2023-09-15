@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 
 Wenpan LI is currently a postdoctoral researcher at The Chinese University of Hongkong, who specializes in the field of **Optical Metrology**, **robot vision** and **visual inspection**. His research falls into the area of image- or vision-based measurement and inspection.
 
