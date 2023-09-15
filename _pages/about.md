@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Short introduction
+======
 Wenpan LI is currently a postdoctoral researcher at The Chinese University of Hong Kong, who specializes in the fields of **Optical Metrology**, **Robot Vision** and **Visual Inspection**. His research falls into the area of advanced digital image correlation, image/vision-based measurement and defect inspection, and 3D vision for robot sensing.
 
 Wenpan received his dual PhD degree in Mechanical Engineering from **Xi'an Jiaotong University** and **City University of Hong Kong**. During his PhD study, he has worked in Tencent AI Lab as an intern.
@@ -22,4 +23,4 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For more info about Wenpan LI, please contact him via [email](wenpanli2-c@my.cityu.edu.hk).
