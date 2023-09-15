@@ -11,7 +11,7 @@ Welcome to Wenpan LI's personal homepage.
 
 Short introduction
 =
-Wenpan LI is currently a postdoctoral researcher at ***The Chinese University of Hong Kong***, who specializes in the fields of **Optical Metrology**, **Robot Vision** and **Visual Inspection**. His research falls into the area of advanced digital image correlation for deformation measurement, image/vision-based measurement and defect inspection, and 3D vision for robot sensing.
+Wenpan LI is currently a postdoctoral researcher at ***The Chinese University of Hong Kong***, who specializes in the fields of **Optical Metrology**, **Visual Inspection** and **Robot Vision**. His research falls into the area of advanced digital image correlation for deformation measurement, image/vision-based measurement and defect inspection, and 3D vision for robot sensing.
 
 Wenpan received a dual PhD degree in Mechanical Engineering from ***Xi'an Jiaotong University*** and ***City University of Hong Kong***. During his PhD study, he has worked in Tencent AI Lab as an intern.
 
