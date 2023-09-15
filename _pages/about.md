@@ -23,4 +23,4 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 For more info
 ------
-For more info about Wenpan LI, please contact him via wenpanli2-c@my.cityu.edu.hk.
+For more info about Wenpan LI, please contact him via **wenpanli2-c@my.cityu.edu.hk**.
