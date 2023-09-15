@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me:"
+title: "Wenpan LI"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
