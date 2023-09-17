@@ -34,8 +34,7 @@ Publications
    (https://zenodo.org/record/3734870#.Y7uN_HZByUk)
         
 6. Yulong Zong, Jin Liang, Huan Wang, Maodong Ren, Mingkai Zhang, **Wenpan Li**, Wang Lu, Meitu Ye, An intelligent and automated 3D surface defect detection system 
-   for quantitative 3D estimation and feature classification of material surface defects, Optics and Lasers in Engineering, Volume 144, 2021, 106633, ISSN 0143- 
-   8166. [[Link]](https://doi.org/10.1016/j.optlaseng.2021.106633)
+   for quantitative 3D estimation and feature classification of material surface defects, Optics and Lasers in Engineering, Volume 144, 2021, 106633. [[Link]](https://doi.org/10.1016/j.optlaseng.2021.106633)
 
 Patents
 =
