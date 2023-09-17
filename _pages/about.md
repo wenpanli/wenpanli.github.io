@@ -17,7 +17,7 @@ Wenpan received a dual PhD degree in Mechanical Engineering from ***City Univers
 
 Publications
 =
-1. Hao Hu, Boxing Qian, Yongqing Zhang, and **Wenpan Li**. Digital Image Correlation with a Prism Camera and Its Application in Complex Deformation Measurement,   
+1. Hao Hu, Boxing Qian, Yongqing Zhang, and **Wenpan Li**. digital image correlation with a prism camera and its application in complex deformation measurement,   
    Sensors 23, NO. 12: 5531(2023). [[Link]](https://doi.org/10.3390/s23125531)
  
 2. **Wenpan Li**, Youfu Li, Jin Liang. Enhanced feature-based path-independent initial value estimation for robust point-wise digital image correlation. Optical 
