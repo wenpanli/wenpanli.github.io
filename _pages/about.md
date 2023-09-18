@@ -19,7 +19,7 @@ Publications
 =
 1. Rong Dai, **Wenpan Li**, et al., High-accuracy Calibration for a Multi-view Microscopic 3D Measurement System, Submitted to *IEEE/ASME Transactions on Mechatronics*.(Under Review)
 
-2. Hao Hu, Boxing Qian, Yongqing Zhang, and **Wenpan Li**. Digital image correlation with a prism camera and its application in complex deformation measurement,   *Sensors* 23, NO. 12: 5531(2023). [[Link]](https://doi.org/10.3390/s23125531)
+2. Hao Hu, Boxing Qian, Yongqing Zhang, and **Wenpan Li**. Digital image correlation with a prism camera and its application in complex deformation measurement,   *Sensors*, NO. 12: 5531(2023). [[Link]](https://doi.org/10.3390/s23125531)
  
 3. **Wenpan Li**, Youfu Li, Jin Liang. Enhanced feature-based path-independent initial value estimation for robust point-wise digital image correlation. *Optical and laser in engineering*, 121C(2019) pp.189-202. [[Link]](https://doi.org/10.1016/j.optlaseng.2019.04.016)
   
