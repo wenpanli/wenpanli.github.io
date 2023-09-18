@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Wenpan LI"
+title: "Wenpan Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to Wenpan LI's personal homepage. 
+Welcome to Wenpan Li's personal homepage. 
 
 Short introduction
 =
-Wenpan LI is currently a postdoctoral researcher at ***The Chinese University of Hong Kong***, who specializes in the fields of **Optical Metrology**, **Visual Inspection** and **Robot Vision**. His research falls into the area of advanced digital image correlation for deformation measurement, image/vision-based measurement and defect inspection, and 3D vision for robot sensing.
+Wenpan Li is currently a postdoctoral researcher at ***The Chinese University of Hong Kong***, who specializes in the fields of **Optical Metrology**, **Visual Inspection** and **Robot Vision**. His research falls into the area of advanced digital image correlation for deformation measurement, image/vision-based measurement and defect inspection, and 3D vision for robot sensing.
 
 Wenpan received a dual PhD degree in Mechanical Engineering from ***City University of Hong Kong*** and ***Xi'an Jiaotong University***, working with [Prof. You-Fu Li](https://www.cityu.edu.hk/mne/people/academic-staff/prof-li-you-fu) and [Prof. Jin Liang](https://gr.xjtu.edu.cn/en/web/liangjin/1).  During his PhD study, he has worked in Tencent AI Lab as an intern.
 
@@ -36,7 +36,9 @@ Publications
 
 Patents
 =
-1. Jin Liang, **Wenpan Li**, et, al. A measurement system for measuring the three-dimensional full-field deformation of masonry structures with a large field of view,      CN108759699.
-    
-2. Jin Liang, Boxing Qian, **Wenpan Li**, et, al. The vision measurement method used for overall motion tracking of a rotating object, CN107452024.
+1. Jin Liang, **Wenpan Li**, et al., “Method and system for measuring three-dimensional fullfield deformation of masonry structure materials with a large field of 
+   view”, Chinese patent, CN108759699B, 2020.
+2. Jin Liang, **Wenpan Li**, et al., “Digital image measurement method based on feature matching”, Chinese patent, CN111354033A, 2020.
+3. Jin Liang, Boxing Qian, **Wenpan Li**, et al., “A vision measurement method for fullfield motion tracking of rotating objects”, Chinese patent, CN107452024B, 2020.
+4. Jin Liang, Meitu Ye, Zehua Miao, **Wenpan Li**, “The matching method of weakly correlated speckle images in the oblique field of view”, Chinese patent, CN112200203A, 2021.
 
