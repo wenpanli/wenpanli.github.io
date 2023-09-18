@@ -36,7 +36,7 @@ Publications
 
 Patents
 =
-1. Wenpan Li, Linchao Bao, Xiangkai Lin, Method and apparatus for generating three-dimensional face model, computer device, and storage medium, US Patent, App.     17/707,937.
+1. **Wenpan Li**, et al., Method and apparatus for generating three-dimensional face model, computer device, and storage medium, US Patent, App.     17/707,937.
 2. Jin Liang, **Wenpan Li**, et al., “Method and system for measuring three-dimensional fullfield deformation of masonry structure materials with a large field of view”, Chinese patent, CN108759699B, 2020.
 3. Jin Liang, **Wenpan Li**, et al., “Digital image measurement method based on feature matching”, Chinese patent, CN111354033A, 2020.
 4. Jin Liang, Boxing Qian, **Wenpan Li**, et al., “A vision measurement method for fullfield motion tracking of rotating objects”, Chinese patent, CN107452024B, 2020.
