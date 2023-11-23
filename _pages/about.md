@@ -45,3 +45,5 @@ Patents
 4. Jin Liang, Boxing Qian, **Wenpan Li**, et al., “A vision measurement method for fullfield motion tracking of rotating objects”, *Chinese Patent*, CN107452024B, 2020.
 5. Jin Liang, Meitu Ye, Zehua Miao, **Wenpan Li**, “The matching method of weakly correlated speckle images in the oblique field of view”, *Chinese Patent*, CN112200203A, 2021.
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bJLNsNNGfZaE2k7gG6Yyef8nUu_Yu9GyvLf6wiEOLMA&cl=ffffff&w=a"></script>
+
