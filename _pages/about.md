@@ -17,9 +17,9 @@ Wenpan received a dual PhD degree in Mechanical Engineering from ***City Univers
 
 Publications
 =
-1. **Wenpan Li**, Digital Image Correlation in Manufacturing: A Review. (In Preperation)
+1. Cheng Jiang, Wen-long Li, **Wenpan Li**, et al., A Novel Dual-robot Accurate Calibration Method Using Convex Optimization and Lie Derivative. *IEEE Transactions on Robotics*(2023).
 
-2. Rong Dai, **Wenpan Li**, et al., High-accuracy Calibration for a Multi-view Microscopic 3D Measurement System, Submitted to *IEEE/ASME Transactions on Mechatronics*.(Accept)
+2. Rong Dai, **Wenpan Li**, et al., High-accuracy Calibration for a Multi-view Microscopic 3D Measurement System, Submitted to *IEEE/ASME Transactions on Mechatronics*(2023).
 
 3. Hao Hu, Boxing Qian, Yongqing Zhang, and **Wenpan Li**. Digital image correlation with a prism camera and its application in complex deformation measurement,   *Sensors*, NO. 12: 5531(2023). [[Link]](https://doi.org/10.3390/s23125531)
  
